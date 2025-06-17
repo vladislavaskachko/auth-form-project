@@ -1,0 +1,28 @@
+{
+  "name": "auth-form-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html",
+    "typecheck": "tsc --noEmit",
+    "lint": "eslint src/**/*.{ts,tsx}",
+    "lint:fix": "eslint src/**/*.{ts,tsx} --fix",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vladislavaskachko/auth-form-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vladislavaskachko/auth-form-project/issues"
+  },
+  "homepage": "https://github.com/vladislavaskachko/auth-form-project#readme",
+  "engines": {
+    "node": "20.x"
+  }
+}
