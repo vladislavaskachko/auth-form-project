@@ -1,4 +1,4 @@
-/* ����� ����� */
+
 body {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   background: linear-gradient(145deg, #f0f0f0, #e0e0e0);
@@ -10,7 +10,6 @@ body {
   color: #333;
 }
 
-/* ������������� */
 main {
   flex: 1;
   display: flex;
@@ -18,7 +17,6 @@ main {
   justify-content: center;
 }
 
-/* ����� � ����� */
 header,
 footer {
   text-align: center;
@@ -27,7 +25,6 @@ footer {
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
 }
 
-/* ����� */
 form {
   background-color: #ffffff;
   padding: 2em;
@@ -37,7 +34,6 @@ form {
   max-width: 400px;
 }
 
-/* ������ ����� */
 .input-group {
   margin-bottom: 1.5em;
   display: flex;
@@ -68,7 +64,6 @@ form {
   gap: 0.5em;
 }
 
-/* ������ ����� */
 #loginBtn {
   background-color: #4a90e2;
   color: white;
@@ -85,7 +80,6 @@ form {
   background-color: #357ab8;
 }
 
-/* ���. ������ */
 .social-login {
   display: flex;
   justify-content: space-between;
@@ -120,14 +114,12 @@ form {
   opacity: 0.85;
 }
 
-/* ��������� */
 .help-text {
   font-size: 0.85em;
   color: #666;
   margin-top: 0.25em;
 }
 
-/* ��������� �� ������ ��� ������ */
 #message {
   margin-top: 1em;
   font-weight: bold;
