@@ -1,0 +1,19 @@
+{
+  "name": "react-version",
+  "version": "1.0.0",
+  "description": "React Auth Form with Parcel",
+  "scripts": {
+  "dev": "parcel src/index.html"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.14",
+    "@types/react-dom": "^18.2.7",
+    "parcel": "^2.10.0",
+    "typescript": "^5.4.0"
+  }
+}
+
